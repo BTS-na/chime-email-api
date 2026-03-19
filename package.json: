@@ -1,0 +1,16 @@
+{
+  "name": "chime-email-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "resend": "^4.1.0",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0",
+    "cors": "^2.8.5",
+    "zod": "^3.24.2"
+  }
+}
